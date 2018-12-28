@@ -2,7 +2,7 @@
 
 Convert ASCII string with a limited character set to morse code and inversement.
 
-### Requirement
+### Requirements
 
 * Python 3.x
 * Windows System (only for sound)
